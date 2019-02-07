@@ -1,6 +1,3 @@
-#Script to Install Docker Latest Version on Ubuntu.
-#Change the scipt permissions (chmod 700 docker-install.sh) to executable before running the script.
-sudo apt-get update
 sudo apt-get install \
     apt-transport-https \
     ca-certificates \
